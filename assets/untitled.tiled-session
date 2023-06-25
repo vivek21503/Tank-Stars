@@ -1,0 +1,62 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/2003v/OneDrive/Desktop/greentan.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/2003v/OneDrive/Desktop/greentan.tmx": {
+            "scale": 0.68875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 707.8039927404719,
+                "y": 119.78221415607987
+            }
+        },
+        "C:/Users/2003v/OneDrive/Desktop/terrainta.tsx": {
+            "scaleInDock": 1
+        },
+        "Final.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 959,
+                "y": 539
+            }
+        },
+        "background_tank_star.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "terrain_tank_star.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/2003v/OneDrive/Desktop/tank map",
+    "map.height": 216,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 5,
+    "map.tileWidth": 5,
+    "map.width": 384,
+    "openFiles": [
+        "Final.tmx",
+        "background_tank_star.tsx",
+        "terrain_tank_star.tsx",
+        "C:/Users/2003v/OneDrive/Desktop/greentan.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "Final.tmx",
+        "background_tank_star.tsx",
+        "terrain_tank_star.tsx",
+        "C:/Users/2003v/OneDrive/Desktop/greentan.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 5,
+        "width": 5
+    }
+}
